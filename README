@@ -1,0 +1,11 @@
+R Portfolio
+
+/***************************************
+
+10/16 notes:
+
+I began using R in September of 2014 in a class on Health Data. I really 
+like the language because of the way it structures data - the idea of 
+storing data in vectors for each variable seems rather intuitive. I'm 
+just getting started but I'm looking forward to using shiny to create
+a web app in the near future
